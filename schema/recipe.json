@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "https://github.com/madhead/recipes/recipe",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Recipe name"
+    },
+    "language": {
+      "type": "string",
+      "description": "The language of the recipe"
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "ingredients": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "amount": {
+            "type": "object",
+            "properties": {
+              "quantity": {
+                "type": ["string", "number"]
+              },
+              "unit": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "required": ["name"]
+      }
+    },
+    "directions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "step": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "required": ["name"]
+}
