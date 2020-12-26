@@ -12,6 +12,12 @@
       "type": "array",
       "items": { "$ref": "https://github.com/madhead/recipes/link" }
     },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
     "ingredients": {
       "type": "array",
       "items": { "$ref": "https://github.com/madhead/recipes/ingredient" }
