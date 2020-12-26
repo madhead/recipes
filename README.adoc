@@ -2,3 +2,4 @@
 
 image:https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square[The MIT License, link=https://opensource.org/licenses/MIT]
 image:https://img.shields.io/badge/license-BY--SA--4.0-brightgreen?style=flat-square&logo=creative-commons[Creative Commons Attribution-ShareAlike 4.0 International License, link=http://creativecommons.org/licenses/by-sa/4.0]
+image:https://img.shields.io/badge/CoC-Contributor Covenant-important?style=flat-square[Contributor Covenant 1.4, link=https://www.contributor-covenant.org/version/1/4/code-of-conduct.html]
