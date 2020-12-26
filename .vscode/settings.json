@@ -1,0 +1,7 @@
+{
+	"yaml.schemas": {
+		"schema/recipe.json": [
+			"recipes/*.yml"
+		]
+	}
+}

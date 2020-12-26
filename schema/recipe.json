@@ -1,16 +1,19 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "https://github.com/madhead/recipes/recipe",
+  "$id": "recipe.json",
   "type": "object",
   "properties": {
     "name": {
-      "type": "string",
-      "description": "Recipe name"
+      "type": "string"
     },
-    "language": { "$ref": "https://github.com/madhead/recipes/language" },
+    "language": {
+      "$ref": "language.json"
+    },
     "links": {
       "type": "array",
-      "items": { "$ref": "https://github.com/madhead/recipes/link" }
+      "items": {
+        "$ref": "link.json"
+      }
     },
     "tags": {
       "type": "array",
@@ -18,15 +21,23 @@
         "type": "string"
       }
     },
+    "preparationTime": {
+      "type": "number",
+      "minimum": 0
+    },
     "ingredients": {
       "type": "array",
-      "items": { "$ref": "https://github.com/madhead/recipes/ingredient" }
+      "items": {
+        "$ref": "ingredient.json"
+      }
     },
     "directions": {
       "type": "array",
-      "items": { "$ref": "https://github.com/madhead/recipes/step" }
+      "items": {
+        "$ref": "step.json"
+      }
     }
   },
-  "required": ["name"],
+  "required": ["name", "language"],
   "additionalProperties": false
 }

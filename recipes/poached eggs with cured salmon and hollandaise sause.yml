@@ -1,0 +1,44 @@
+name: Poached eggs with cured salmon and hollandaise sause
+language: en
+tags:
+  - breakfast
+preparationTime: 20
+ingredients:
+  - name: Eggs
+    amount:
+      quantity: 4
+  - name: Butter
+    amount:
+      quantity: 50
+      unit: g
+  - name: Toast
+    amount:
+      quantity: 2
+  - name: Cured salmon
+    amount:
+      quantity: 50
+      unit: g
+  - name: Water
+    amount:
+      quantity: 1
+      unit: l
+  - name: Salt
+  - name: Pepper
+  - name: Lemon juice
+    alternatives:
+      - name: Wine vinegar
+directions:
+  - step: Boil the water.
+  - step: Get the butter out of a fridge so it becomes soft.
+  - step: Make two toasts.
+  - step: Slice the fish. Put the slices on toasts. Set aside for a while.
+  - step: Separate yolks of two eggs and put them into a deep big bowl.
+  - step: Whisk the yolks until they double in volume.
+  - step: Add some salt, pepper and lemon juice to the yolks while stil whisking.
+  - step: When the water boils, set the fire to medium, so the water is barely simmering without any bubbles. Don't add any salt, vinegar or make any funnels. Let the water be calm.
+  - step: Crack an egg on a skimmer, so that the most liquid part of its white runs out. Gently pour the egg into simmering water.
+  - step: Repeat for the second egg. When pouring it into the water make sure it doesn't glue with the previous one. 1 litre of water in a 1.5-litre pot should be enought to cook 2–3 eggs.
+  - step: Cook the eggs for 4 minutes.
+  - step: "Use the pot with theese eggs as a water bath to finish your holldandaise sause: put the bowl with the yolks on it and whisk rapidly"
+  - step: Add the butter to the sause and continue to whisk. Control the temperature of the sause so that the yolks do not scramble.
+  - step: Put the poached eggs onto the toasts and top up with the hollandaise sause.

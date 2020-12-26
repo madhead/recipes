@@ -1,47 +1,24 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "https://github.com/madhead/recipes/ingredient",
+  "$id": "ingredient.json",
   "type": "object",
   "properties": {
     "name": {
       "type": "string"
     },
     "amount": {
-      "type": "object",
-      "properties": {
-        "quantity": {
-          "anyOf": [
-            {
-              "type": "string",
-              "pattern": "[\u00BC-\u00BE\u2150-\u215E]"
-            },
-            {
-              "type": "string",
-              "pattern": "[0-9]+\u2044[0-9]+"
-            },
-            {
-              "type": "number",
-              "exclusiveMinimum": 0
-            }
-          ]
-        },
-        "unit": {
-          "type": "string",
-          "enum": [
-            "lb",
-            "oz",
-            "mg",
-            "g",
-            "kg",
-            "tsp.",
-            "tbsp.",
-            "fl oz",
-            "ml",
-            "l"
-          ]
-        }
+      "$ref": "amount.json"
+    },
+    "alternatives": {
+      "type": "array",
+      "items": {
+        "$ref": "ingredient.json"
       }
+    },
+    "optional": {
+      "type": "boolean"
     }
   },
-  "required": ["name"]
+  "required": ["name"],
+  "additionalProperties": false
 }

@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/schema#",
-  "$id": "https://github.com/madhead/recipes/language",
+  "$id": "language.json",
   "type": "string",
   "pattern": "^[a-z]{2}$"
 }
