@@ -7,50 +7,20 @@
       "type": "string",
       "description": "Recipe name"
     },
-    "language": {
-      "type": "string",
-      "description": "The language of the recipe"
-    },
+    "language": { "$ref": "https://github.com/madhead/recipes/language" },
     "links": {
       "type": "array",
-      "items": {
-        "type": "string"
-      }
+      "items": { "$ref": "https://github.com/madhead/recipes/link" }
     },
     "ingredients": {
       "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "name": {
-            "type": "string"
-          },
-          "amount": {
-            "type": "object",
-            "properties": {
-              "quantity": {
-                "type": ["string", "number"]
-              },
-              "unit": {
-                "type": "string"
-              }
-            }
-          }
-        },
-        "required": ["name"]
-      }
+      "items": { "$ref": "https://github.com/madhead/recipes/ingredient" }
     },
     "directions": {
       "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "step": {
-            "type": "string"
-          }
-        }
-      }
+      "items": { "$ref": "https://github.com/madhead/recipes/step" }
     }
   },
-  "required": ["name"]
+  "required": ["name"],
+  "additionalProperties": false
 }

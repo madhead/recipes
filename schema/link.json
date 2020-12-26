@@ -1,0 +1,6 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "https://github.com/madhead/recipes/link",
+  "type": "string",
+  "format": "uri"
+}
