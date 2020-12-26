@@ -20,11 +20,11 @@ ingredients:
   - name: Salt
     amount:
       quantity: 1
-      unit: tbsp
+      unit: tbsp.
   - name: Olive oil
     amount:
       quantity: 1
-      unit: tbsp
+      unit: tbsp.
 directions:
   - step: Preheat the oven to 120–150 °C.
   - step: Mix flour, salt and oil.

@@ -10,10 +10,35 @@
       "type": "object",
       "properties": {
         "quantity": {
-          "type": ["string", "number"]
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "[\u00BC-\u00BE\u2150-\u215E]"
+            },
+            {
+              "type": "string",
+              "pattern": "[0-9]+\u2044[0-9]+"
+            },
+            {
+              "type": "number",
+              "exclusiveMinimum": 0
+            }
+          ]
         },
         "unit": {
-          "type": "string"
+          "type": "string",
+          "enum": [
+            "lb",
+            "oz",
+            "mg",
+            "g",
+            "kg",
+            "tsp.",
+            "tbsp.",
+            "fl oz",
+            "ml",
+            "l"
+          ]
         }
       }
     }
