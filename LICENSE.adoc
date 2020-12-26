@@ -1,0 +1,9 @@
+= License
+
+I'm not a lawyer, so licensing is an issue for me.
+Licensing a mixed project like this, containing both source and content, is twice as hard.
+
+I decided to go with link:.license/MIT.adoc[the MIT License] for the source code in this repo.
+This includes all the files in link:schema[`schema`] and link:.github[`.github`] directories as well as the source code in the root of the repository.
+
+The actual content of this repository — the recipes in the link:recipes[`recipes`] directory — is licensed under link:++.license/CC BY-SA 4.0.txt++[the Creative Commons Attribution-ShareAlike 4.0 International] (CC BY-SA 4.0).

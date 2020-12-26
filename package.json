@@ -1,6 +1,8 @@
 {
   "name": "recipes",
   "version": "1.0.0",
+  "author": "madhead <siarhei.krukau@gmail.com>",
+  "license": "(MIT OR CC-BY-SA-4.0)",
   "devDependencies": {
     "pajv": "^1.2.0"
   },
@@ -11,7 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/madhead/recipes.git"
   },
-  "author": "madhead <siarhei.krukau@gmail.com>",
   "bugs": {
     "url": "https://github.com/madhead/recipes/issues"
   },
