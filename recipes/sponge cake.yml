@@ -1,0 +1,30 @@
+name: Sponge cake
+language: en
+tags:
+  - dough
+  - cake
+preparationTime: 60
+ingredients:
+  - name: Eggs
+    amount:
+      quantity: 3
+  - name: Wheat flour
+    amount:
+      quantity: 90
+      unit: g
+  - name: Sugar
+    amount:
+      quantity: 90
+      unit: g
+  - name: Salt
+    amount:
+      quantity: 1
+      unit: pinch
+directions:
+  - step: Preheat the oven to 160 °C.
+  - step: Separate egg whites from yolks.
+  - step: Add a pinch of salt ot egg whites.
+  - step: Beat egg whites for stiff peaks.
+  - step: Add the yolks to the whites and whisk for a few more minutes.
+  - step: Gently add the flour to the eggs. Don't use the mixer.
+  - step: Bake 40–50 minutes at 160 °C.
