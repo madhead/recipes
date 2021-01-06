@@ -1,0 +1,29 @@
+{
+  "name": "recipes",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Meals I cook",
+  "keywords": [
+    "food",
+    "recipes",
+    "cooking"
+  ],
+  "homepage": "https://github.com/madhead/recipes",
+  "bugs": {
+    "url": "https://github.com/madhead/recipes/issues"
+  },
+  "license": "CC-BY-SA-4.0",
+  "author": "madhead <siarhei.krukau@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhead/recipes.git"
+  },
+  "scripts": {
+    "prevalidate": "rm -rf schema && mkdir schema && cd schema && curl --remote-name-all -L https://github.com/256-recipes/yuml/releases/download/latest/{amount,ingredient,language,link,quantity,recipe,step,unit}.json",
+    "validate": "ajv validate -s schema/recipe.json -r 'schema/!(recipe).json' -c ajv-formats -d 'recipes/*'"
+  },
+  "devDependencies": {
+    "ajv-cli": "^4.0.1",
+    "ajv-formats": "^1.5.1"
+  }
+}
