@@ -1,0 +1,53 @@
+name: Sweet chili udon noodles with seafood
+language: en
+tags:
+  - main course
+  - asian fusion
+preparationTime: 40
+ingredients:
+  - name: Udon noodles
+    amount:
+      quantity: 2
+  - name: Seafood (calamari rings, baby octopus, prawns)
+    amount:
+      quantity: 150
+      unit: g
+  - name: Egg
+    amount:
+      quantity: 1
+  - name: Cucumber
+    amount:
+      quantity: 1
+  - name: Carrot
+    amount:
+      quantity: 1
+  - name: Small chili pepper
+    amount:
+      quantity: 1
+  - name: Ginger
+    amount:
+      quantity: 5
+      unit: g
+  - name: Garlic
+    amount:
+      quantity: 5
+      unit: g
+  - name: Sweet chili sauce
+    amount:
+      quantity: 50
+      unit: ml
+  - name: Oil
+  - name: Salt
+  - name: Pepper
+directions:
+  - step: Cut the cucumber into strips.
+  - step: Cut the carrot into strips.
+  - step: Cut the ginger into strips.
+  - step: Slice the chili pepper.
+  - step: Chop the garlic.
+  - step: Bring up some water to a boil and cook the egg for 6–8 minutes.
+  - step: Bring a pan to a high heat. Rinse with some oil.
+  - step: Fry the seafood with garlic for 2–3 minutes.
+  - step: Add the sweet chili sauce to the pan. Add salt and pepper. Put it onto a medium heat and fry for 3–4 more minutes.
+  - step: Bring up some water to a boil and cook the udon noodles for 2–3 minutes. Rinze it with oil.
+  - step: "Serve using the plate rule: vegetables — ½ of the plate, seafood — ¼ of the plate, udon noodles — ¼ of the plate."

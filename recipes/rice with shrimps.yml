@@ -1,0 +1,54 @@
+name: Rice with shrimps
+language: en
+tags:
+  - main course
+preparationTime: 60
+ingredients:
+  - name: Steamed white rice
+    amount:
+      quantity: 180
+      unit: g
+  - name: Medium-sized shrimp
+    amount:
+      quantity: 15
+  - name: Onion
+    amount:
+      quantity: ½
+  - name: Carrot
+    amount:
+      quantity: ½
+  - name: Garlic
+    amount:
+      quantity: 20
+      unit: g
+  - name: Ginger root
+    amount:
+      quantity: 30
+      unit: g
+  - name: Canned tomatoes juice
+    amount:
+      quantity: 40
+      unit: ml
+    alternatives:
+      - name: Tomato juice
+        amount:
+          quantity: 40
+          unit: ml
+  - name: Dried cloves
+    amount:
+      quantity: 3
+    optional: true
+  - name: Soy sauce
+  - name: Oil
+directions:
+  - step: Peel the shrimps.
+  - step: Grate the carrot.
+  - step: Grate the ginger.
+  - step: Grate the garlic.
+  - step: Chop the onion.
+  - step: Fry the shrimps a little bit, let them juice, add a little bit of soy sauce and fry a little more.
+  - step: Mix onion, garlic and ginger together.
+  - step: Remove the shrimps off the pan and put vegetables there.
+  - step: Fry the vegetables, but leave them underdone.
+  - step: Put the rice to the vegetables on the pan, add the shrimps.
+  - step: Add small portions of water and tomato juice, stir and fry the mix until the rice is ready.

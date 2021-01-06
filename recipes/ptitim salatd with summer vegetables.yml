@@ -1,0 +1,53 @@
+name: Ptitim salatd with summer vegetables
+language: en
+tags:
+  - breakfast
+  - oriental
+  - mediterranean
+preparationTime: 40
+ingredients:
+  - name: Ptitim
+    amount:
+      quantity: 50
+      unit: g
+  - name: Sweet small tomatoes
+    amount:
+      quantity: 2
+  - name: Small cucumber
+    amount:
+      quantity: 1
+  - name: Cashew
+    amount:
+      quantity: 5
+      unit: g
+  - name: Raisins
+    amount:
+      quantity: 5
+      unit: g
+  - name: Lemon
+    amount:
+      quantity: ¼
+  - name: Egg
+    amount:
+      quantity: 1
+  - name: Dijon mustard
+    amount:
+      quantity: 1
+      unit: tbsp.
+  - name: Olive oil
+  - name: Basil
+  - name: Salt
+  - name: Pepper
+directions:
+  - step: Bring some water to a boil.
+  - step: Cook the ptitim until ready. Drain and rinse in cold running water until it has cooled down. Put into a bowl.
+  - step: Bring more water to a boil and cook an egg for 6-7 minutes.
+  - step: Put the mustard into a bowl.
+  - step: Squeeze the lemon in that bowl. Add some lemon jest.
+  - step: Add olive oil and mix well.
+  - step: Fry the cashew on a dry pan. Shatter it. Add into the bowl.
+  - step: Tear the basil. Add into the bowl.
+  - step: Cut the tomatoes and cucumber. Add into the bowl.
+  - step: Add raisins into the bowl.
+  - step: Mix the contents of the bowl well.
+  - step: Serve with a half of the egg.

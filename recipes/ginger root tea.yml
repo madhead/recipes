@@ -1,0 +1,31 @@
+name: Ginger root tea
+language: en
+tags:
+  - beverage
+preparationTime: 40
+ingredients:
+  - name: Ginger root
+    # TODO: Amount in grams? I usually use about 5 cm of ginger root
+  - name: Honey
+    amount:
+      quantity: 2.5
+      unit: tbsp.
+  - name: Limes
+    amount:
+      quantity: 2
+  - name: Water
+    amount:
+      quantity: 2
+      unit: l
+  - name: Cinnamon
+    optional: true
+  - name: Turmeric
+    optional: true
+directions:
+  - step: Grate the ginger.
+  - step: Boil the water.
+  - step: Put the ginger and the lime guice in the water and boil for 10–20 minutes.
+  - step: Cool the mix to about 60 ⁰C.
+  - step: Put the honey in the mix.
+  - step: Filter the mix.
+  - step: Cool the mix and enjoy!

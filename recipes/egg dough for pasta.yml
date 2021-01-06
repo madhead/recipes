@@ -1,0 +1,32 @@
+name: Egg dough for pasta
+language: en
+links:
+  - https://www.instructables.com/Egg-Dough-Kneading-Basics/
+tags:
+  - dough
+  - pasta
+preparationTime: 50
+ingredients:
+  - name: Unbleached all purpose flour
+    amount:
+      quantity: 350
+      unit: g
+  - name: Whole eggs
+    amount:
+      quantity: 3
+  - name: Egg yolks
+    amount:
+      quantity: 1
+  - name: Extra virgin olive oil
+    amount:
+      quantity: 1
+      unit: tbsp.
+  - name: Water
+    amount:
+      quantity: 1
+      unit: tsp.
+directions:
+  - step: Bring the ingredients to room temperature before getting started.
+  - step: Knead for 4 to 5 minutes.
+  - step: Engage your core muscles to help support your back while kneading.
+  - step: Allow dough to rest for 30 minutes to 3 hours before rolling out.

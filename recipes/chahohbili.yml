@@ -1,0 +1,50 @@
+name: Сhahohbili
+language: en
+tags:
+  - main course
+  - georgian cuisine
+preparationTime: 180
+ingredients:
+  - name: Chicken shanks
+    amount:
+      quantity: 4
+  - name: Big onion
+    amount:
+      quantity: 1
+  - name: Sweet tomatoes
+    amount:
+      quantity: 4
+  - name: Garlic clove
+    amount:
+      quantity: 1
+  - name: Smoked paprika
+    amount:
+      quantity: ⅓
+      unit: tbsp.
+  - name: Nutmeg
+    amount:
+      quantity: ⅓
+      unit: tbsp.
+  - name: Garlic powder
+    amount:
+      quantity: 1
+      unit: tbsp.
+  - name: Cumin seeds
+    amount:
+      quantity: ⅓
+      unit: tbsp.
+  - name: Butter
+  - name: Salt
+  - name: Pepper
+directions:
+  - step: Put the pan onto high heat. Don't add any oil or butter.
+  - step: Fry the shanks until half cooked.
+  - step: Add cumin seeds, garlic powder, paprika, nutmeg a little bit of salt and pepper.
+  - step: Add the chopped onion.
+  - step: Fry until the onion is transcluent.
+  - step: Put a pot on a small to medium heat.
+  - step: Move the chicken into the pot.
+  - step: Deglaze the pan with some water and pour it into the pot.
+  - step: Melt the butter on the pan and fry the tomatoes on a medium heat.
+  - step: Deglaze the pan one more time and pour the water into the pot.
+  - step: Stew until the liquid become really dense.

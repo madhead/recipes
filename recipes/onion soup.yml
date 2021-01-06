@@ -1,0 +1,62 @@
+name: Onion soup
+language: en
+tags:
+  - soup
+  - french cuisine
+preparationTime: 120
+ingredients:
+  - name: Yellow onions
+    amount:
+      quantity: 1200
+      unit: g
+  - name: White onions
+    amount:
+      quantity: 800
+      unit: g
+  - name: Beef broth
+    amount:
+      quantity: 800
+      unit: ml
+  - name: Chicken broth
+    amount:
+      quantity: 300
+      unit: ml
+  - name: Dry white wine
+    amount:
+      quantity: 170
+      unit: ml
+    alternatives:
+      - name: Wine vinegar
+        amount:
+          quantity:
+            min: 3
+            max: 4
+          unit: tbsp.
+  - name: Butter
+    amount:
+      quantity: 75
+      unit: g
+  - name: Bay leaf
+    amount:
+      quantity: 2
+  - name: Thyme leafs
+    amount:
+      quantity: ⅓
+      unit: tbsp.
+  - name: Worcestershire sauce
+    amount:
+      quantity: 1
+      unit: tbsp.
+  - name: Baguette
+  - name: Emmental cheese
+    alternatives:
+      - name: Gruyere cheese
+directions:
+  - step: Chop the onion.
+  - step: Put a 5 l pot on a low heat.
+  - step: Melt the butter in the pot.
+  - step: Add the onion and mix it with butter.
+  - step: Cook the onion, mixing it regularly, until it caramelizes to medium brown and become pretty dry.
+  - step: Add the wine. Cook for 2–3 minutes.
+  - step: Add both broth kinds and Worcestershire sauce, bay and thyme leaves. Cook for 40–50 minutes.
+  - step: For serving, pour the soup into heat-resistant bowls, add 2–3 baguette slices, cover with cheese and bake in an oven until the cheese melts.

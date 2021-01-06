@@ -1,0 +1,39 @@
+name: Hollandaise sauce
+language: en
+tags:
+  - sauce
+  - french cuisine
+  - french mother sauces
+  - grand sauces
+preparationTime: 15
+ingredients:
+  - name: Egg yolks
+    amount:
+      quantity: 3
+  - name: Freshly squeezed lemon juice
+    amount:
+      quantity: 1
+      unit: tbsp.
+    alternatives:
+      - name: Wine vinegar
+        amount:
+          quantity: 1
+          unit: tbsp.
+  - name: Unsalted butter
+    amount:
+      quantity: 50
+      unit: g
+  - name: Cayenne
+    amount:
+      quantity: 1
+      unit: pinch
+  - name: Salt
+    amount:
+      quantity: 1
+      unit: pinch
+directions:
+  - step: Vigorously whisk the egg yolks and lemon juice together in a stainless steel bowl and until the mixture is thickened and doubled in volume.
+  - step: Place the bowl over a saucepan containing barely simmering water, the water should not touch the bottom of the bowl.
+  - step: Continue to whisk rapidly. Be careful not to let the eggs get too hot or they will scramble.
+  - step: Slowly drizzle in the melted butter and continue to whisk until the sauce is thickened and doubled in volume.
+  - step: Remove from heat, whisk in cayenne and salt.
