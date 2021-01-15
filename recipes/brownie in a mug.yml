@@ -1,0 +1,47 @@
+name: Brownie in a mug
+language: en
+tags:
+  - freaky
+  - cake
+  - dessert
+preparationTime: 5
+ingredients:
+  - name: White flour
+    amount:
+      quantity: 50
+      unit: g
+  - name: Sugar
+    amount:
+      quantity: 70
+      unit: g
+  - name: Cocoa powder
+    amount:
+      quantity: 2
+      unit: tbsp.
+  - name: Salt
+    amount:
+      quantity: 1
+      unit: pinch
+  - name: Cinnamon powder
+    amount:
+      quantity: 1
+      unit: pinch
+  - name: Water
+    amount:
+      quantity: 60
+      unit: ml
+  - name: Melted butter
+    amount:
+      quantity: 2
+      unit: tbsp.
+  - name: Vanilla extract
+    amount:
+      quantity: ⅛
+      unit: tsp.
+    optional: true
+directions:
+  - step: Place flour, sugar, cocoa powder, salt, and cinnamon in a microwave safe ceramic mug.
+  - step: Stir with a fork or spoon to mix well.
+  - step: Add butter or oil, water, and vanilla extract to the cup and stir until the mixture is smooth.
+  - step: Place in microwave and heat on high until the mixture is cooked through, about a 1 minute and 40 seconds for a 1000 W microwave oven.
+  - step: Let cool for a minute and serve with a scoop of vanilla ice cream or a teaspoon or two of whipping cream poured over.

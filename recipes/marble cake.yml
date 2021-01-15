@@ -1,0 +1,53 @@
+name: Marble cake
+language: en
+tags:
+  - cake
+  - dessert
+ingredients:
+  - name: Softened butter
+    amount:
+      quantity: 225
+      unit: g
+  - name: Sugar
+    amount:
+      quantity: 225
+      unit: g
+  - name: Eggs
+    amount:
+      quantity: 4
+  - name: Flour
+    amount:
+      quantity: 225
+      unit: g
+  - name: Baking soda
+    amount:
+      quantity: ½
+      unit: tsp.
+  - name: Citric acid
+    amount:
+      quantity: ⅛
+      unit: tsp.
+  - name: Milk
+    amount:
+      quantity: 3
+      unit: tbsp.
+  - name: Vanilla extract
+    amount:
+      quantity: 1
+      unit: tsp.
+    optional: true
+  - name: Cocoa powder
+    amount:
+      quantity: 2
+      unit: tbsp.
+    optional: true
+directions:
+  - step: Preheat the oven to 180 °C.
+  - step: Put butter, caster sugar, eggs, raising flour, baking soda, citric acid, milk and vanilla extract into a food processor and whizz for 1-2 mins until smooth.
+  - step: Divide the mixture between 2 bowls.
+  - step: Stir cocoa powder into the mixture in one of the bowls.
+  - step: Grease a 20cm cake tin and line the bottom with a circle of greaseproof paper.
+  - step: Take 2 spoons and use them to dollop the chocolate and vanilla cake mixes into the tin alternately.
+  - step: When all the mixture has been used up, tap the bottom on your work surface to ensure that there aren’t any air bubbles.
+  - step: Take a skewer and swirl it around the mixture in the tin a few times to create a marbled effect.
+  - step: Bake the cake for 45-55 minutes until a skewer inserted into the centre comes out clean.

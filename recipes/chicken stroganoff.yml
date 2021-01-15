@@ -1,0 +1,60 @@
+name: Chicken Stroganoff
+language: en
+links:
+  - https://www.recipetineats.com/chicken-stroganoff
+tags:
+  - russian cuisine
+ingredients:
+  - name: Chicken breasts
+    amount:
+      quantity: 1
+  - name: Onions
+    amount:
+      quantity: 2
+  - name: White flour
+    amount:
+      quantity: 1
+      unit: tbsp.
+  - name: Sour cream
+    amount:
+      quantity: 2
+      unit: tbsp.
+  - name: Champignons
+    amount:
+      quantity: 300
+      unit: g
+  - name: Chicken broth
+    amount:
+      quantity: 100
+      unit: ml
+    alternatives:
+      - name: Water
+        amount:
+          quantity: 100
+          unit: ml
+  - name: Butter
+    amount:
+      quantity: 20
+      unit: g
+  - name: Worcestershire sauce
+    optional: true
+  - name: Tomato paste
+  - name: Salt
+  - name: Pepper
+  - name: Garlic powder
+  - name: Mustard
+  - name: Olive oil
+directions:
+  - step: Slice the meat.
+  - step: Sprinkle chicken with garlic powder, salt and pepper on both sides.
+  - step: Heat oil in a large pan over medium heat. Place chicken in the pan.
+  - step: Cook until golden. Remove chicken onto a plate.
+  - step: Turn heat down to medium high. Melt some butter in it.
+  - step: Add onions, cook for 1 minute.
+  - step: Add mushrooms. Cook until golden.
+  - step: Add flour, cook for 1 minute, constantly stirring.
+  - step: Add half the broth while stirring. Once incorporated, add remaining broth.
+  - step: Add sour cream and mustard. Stir until incorporated.
+  - step: Bring to simmer, then reduce heat to medium low. Once it thickens to the consistency of pouring cream, adjust salt and pepper to taste.
+  - step: Add chicken back in. Simmer for 1 minute.
+  - step: Serve over pasta or egg noodles, sprinkled with parsley or chives if desired.
