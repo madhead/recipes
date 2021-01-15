@@ -1,0 +1,70 @@
+name: Salmon risotto
+language: en
+links:
+  - https://www.bbcgoodfood.com/recipes/smoked-salmon-lemon-risotto
+tags:
+  - main course
+preparationTime: 30
+ingredients:
+  - name: Smoked salmon
+    amount:
+      quantity: 170
+      unit: g
+  - name: Arborio rice
+    amount:
+      quantity: 350
+      unit: g
+  - name: Onions
+    amount:
+      quantity: 1
+  - name: Garlic
+    amount:
+      quantity: 1
+      unit: clove
+  - name: Fish broth
+    amount:
+      quantity: 1.5
+      unit: l
+    alternatives:
+      - name: Vegetable broth
+        amount:
+          quantity: 1.5
+          unit: l
+      - name: Water
+        amount:
+          quantity: 1.5
+          unit: l
+  - name: Dry white wine
+    amount:
+      quantity: 200
+      unit: ml
+    optional: true
+  - name: Lite mascarpone cheese
+    amount:
+      quantity: 85
+      unit: g
+    optional: true
+  - name: Flat-leaf parsley
+    amount:
+      quantity: 3
+      unit: tsp.
+    optional: true
+  - name: Rucola
+    optional: true
+  - name: Olive oil
+  - name: Lemon zest
+  - name: Lemon juice
+directions:
+  - step: Wash the rice.
+  - step: Chop the garlic.
+  - step: Fry the onion in the oil for 5 mins.
+  - step: Add the rice and garlic, then cook for 2 mins, stirring continuously.
+  - step: Pour in a third of the broth and set the timer to 20 mins.
+  - step: Simmer, stirring occasionally, until the stock has been absorbed.
+  - step: Optionally add some wine, reducing the amount of broth correspondingly.
+  - step: Add half the rest of the broth and carry on cooking, stirring a bit more frequently, until that has been absorbed too.
+  - step: Pour in the last of the broth, stir, then simmer until cooked and creamy.
+  - step: Take from the heat and add the chopped salmon, mascarpone, parsley and lemon zest.
+  - step: Grind in some black pepper, but don’t add salt as the salmon will be salty enough.
+  - step: Leave for 5 mins to settle, then taste and add a little lemon juice if you like.
+  - step: Serve topped with reserved salmon (roughly torn) and some rocket.

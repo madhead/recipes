@@ -1,0 +1,78 @@
+name: Beef Stew
+language: en
+links:
+  - https://www.delish.com/cooking/recipe-ideas/a23515497/easy-beef-stew-recipe
+tags:
+  - stew
+preparationTime: 180
+ingredients:
+  - name: Beef chuck stew meat
+    amount:
+      quantity: 300
+      unit: g
+  - name: Baby potatoes
+    amount:
+      quantity: 450
+      unit: g
+  - name: Onion
+    amount:
+      quantity: 1
+  - name: Carrot
+    amount:
+      quantity: 2
+  - name: Celery
+    amount:
+      quantity: 2
+      unit: stalk
+  - name: Garlic
+    amount:
+      quantity: 3
+      unit: clove
+  - name: Frozen peas
+    amount:
+      quantity: 200
+      unit: g
+  - name: Tomato paste
+    amount:
+      quantity: 60
+      unit: ml
+  - name: Beef broth
+    amount:
+      quantity: 800
+      unit: ml
+  - name: Red wine
+    amount:
+      quantity: 240
+      unit: ml
+    optional: true
+  - name: Worcestershire sauce
+    amount:
+      quantity: 1
+      unit: tbsp.
+  - name: Thyme leaves
+    amount:
+      quantity: 1
+      unit: tsp.
+  - name: Bay leaves
+    amount:
+      quantity: 2
+  - name: Fresh parsley
+    optional: true
+  - name: Salt
+  - name: Pepper
+  - name: Oil
+
+directions:
+  - step: Chop the onion.
+  - step: Chop the celery.
+  - step: Cut the carrot into rounds.
+  - step: Half the potatoes.
+  - step: Slice the meat into 1" cubes.
+  - step: Heat some oil in a large dutch oven over medium heat.
+  - step: Add beef and cook until seared on all sides, 10 minutes. Transfer beef to a plate.
+  - step: In the same pot, cook onion, carrots, and celery until soft, 5 minutes. Season with salt and pepper.
+  - step: Add garlic and tomato paste and cook until garlic is fragrant and tomato paste has darkened, 2 minutes.
+  - step: Add beef back to the dutch oven then add broth, wine, Worcestershire sauce, thyme, and bay leaves.
+  - step: Bring to a boil then reduce heat to a simmer. Season with salt and pepper. Cover and let simmer until beef is tender, 30 to 45 minutes.
+  - step: Add potatoes and simmer, covered, until potatoes are tender, 15 minutes.
+  - step: Remove bay leaves. Stir in peas and cook until warmed through, 2 minutes. Season stew to taste with salt and pepper, then ladle into serving bowls and garish with parsley.
