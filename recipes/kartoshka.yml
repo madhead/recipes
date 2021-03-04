@@ -1,0 +1,52 @@
+name: Kartoshka cake
+language: en
+links:
+  - https://thatswhatshehad.com/russian-kartoshka-dessert
+tags:
+  - soviet cuisine
+  - russian cuisine
+  - cake
+  - dessert
+preparationTime: 30
+ingredients:
+  - name: Sugar biscuits
+    amount:
+      quantity: 400
+      unit: g
+  - name: Butter
+    amount:
+      quantity: 150
+      unit: g
+  - name: Condensed milk
+    amount:
+      quantity: 90
+      unit: g
+  - name: Cocoa powder
+    amount:
+      quantity: 2
+      unit: tbsp.
+  - name: Hazelnuts
+    amount:
+      quantity: 50
+      unit: g
+    alternatives:
+      - name: Walnuts
+        amount:
+          quantity: 50
+          unit: g
+  - name: Cognac
+    amount:
+      quantity: 2
+      unit: tbsp.
+    optional: true
+directions:
+  - step: Toast the nuts.
+  - step: Melt butter in a sauce pan.
+  - step: Place biscuits and half the nuts into blender and pulse until they turn into powder.
+  - step: Chop the rest of the nuts into fine crumbs.
+  - step: Mix biscuit powder with cocoa and chopped nuts.
+  - step: Add melted butter and condensed milk into biscuit mixture. Mix well.
+  - step: Optionally, add cognac for added flavor.
+  - step: Roll the dough into balls or oval shaped “potatoes”.
+  - step: Place the balls in refrigerator and let them cool.
+  - step: Optionally, sieve some extra cocoa powder over the balls turning them several times to make sure they are covered on all sides.

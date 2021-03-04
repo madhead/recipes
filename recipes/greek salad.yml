@@ -1,0 +1,36 @@
+name: Greek salad
+language: en
+tags:
+  - greek cuisine
+ingredients:
+  - name: Red cherry tomatoes
+    amount:
+      quantity: 6
+  - name: Cucumber
+    amount:
+      quantity: 1
+  - name: Onion
+    amount:
+      quantity: 1
+  - name: Green pepper
+    amount:
+      quantity: 1
+  - name: Black olives
+  - name: Oregano
+  - name: Feta cheese
+  - name: Olive oil
+  - name: Lemon juice
+    optional: true
+    alternatives:
+      - name: Vinegar
+  - name: Salt
+  - name: Pepper
+  - name: Capers
+    optional: true
+directions:
+  - step: Cut the tomatoes in halves.
+  - step: Chop the cucumber in a cubes about the same size as tomatoes.
+  - step: Slice the onion.
+  - step: Slice the pepper.
+  - step: Mix all the ingredients, including optional ones, in a salad bowl.
+  - step: Pour some olive oil, lemon juice or vinegar on top of the mix.
