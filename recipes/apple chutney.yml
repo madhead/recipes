@@ -1,0 +1,59 @@
+name: Apple chutney
+language: en
+links:
+  - https://www.bbcgoodfood.com/recipes/classic-apple-chutney
+tags:
+  - indian
+  - sauce
+preparationTime: 60
+ingredients:
+  - name: Onions
+    amount:
+      quantity: 225
+      unit: g
+  - name: Apples
+    amount:
+      quantity: 900
+      unit: g
+  - name: Sultanas
+    amount:
+      quantity: 110
+      unit: g
+    alternatives:
+      - name: Raisins
+        amount:
+          quantity: 110
+          unit: g
+      - name: Dates
+        amount:
+          quantity: 110
+          unit: g
+  - name: Coriander
+    amount:
+      quantity: 15
+      unit: g
+  - name: Paprika
+    amount:
+      quantity: 15
+      unit: g
+  - name: Mixed spice
+    amount:
+      quantity: 15
+      unit: g
+  - name: Salt
+    amount:
+      quantity: 15
+      unit: g
+  - name: Sugar
+    amount:
+      quantity: 340
+      unit: g
+  - name: Water
+    amount:
+      quantity: 425
+      unit: ml
+directions:
+  - step: Chop apples and onions.
+  - step: Combine all the ingredients in a large, heavy saucepan.
+  - step: Bring the mixture to a boil over a medium heat, then simmer uncovered, stirring frequently, for 30-40 mins, or until thick and pulpy.
+  - step: Remove from the heat, leave to cool and transfer to sterilised, clean, dry jars and seal.
