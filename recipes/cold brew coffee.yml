@@ -1,0 +1,22 @@
+name: Cold brew coffee
+language: en
+links:
+ - https://t.me/foodandscience/734
+tags:
+  - beverage
+  - coffee
+preparationTime: 480
+ingredients:
+  - name: Freshly roasted coffee beans
+    amount:
+      quantity: 100
+      unit: g
+  - name: Water
+    amount:
+      quantity: 400
+      unit: ml
+directions:
+  - step: Grind the coffee beans
+  - step: Pour water over the coffee
+  - step: Leave it overnight
+    timer: 480
