@@ -1,0 +1,85 @@
+name: Nigerian style jollof rice
+language: en
+links:
+  - https://www.wikihow.com/Make-Nigerian-Style-Jollof-Rice
+tags:
+  - main course
+  - african cuisine
+  - nigerian cuisine
+  - ghana cuisine
+  - west african cuisine
+  - jollof
+preparationTime: 50
+ingredients:
+  - name: Washed parboiled long grain rice
+    amount:
+      quantity: 400
+      unit: g
+  - name: Onions
+    amount:
+      quantity: 1
+  - name: Red bell pepper
+    amount:
+      quantity: 1
+  - name: Medium tomatoes
+    amount:
+      quantity: 300
+      unit: g
+  - name: Tomato purée
+    amount:
+      quantity: 100
+      unit: g
+  - name: Scotch bonnet pepper
+    amount:
+      quantity: 2
+    alternatives:
+      - name: Habanero
+        amount:
+          quantity: 2
+  - name: Chicken broth
+    amount:
+      quantity: 400
+      unit: ml
+    alternatives:
+      - name: Water
+        amount:
+          quantity: 400
+          unit: ml
+  - name: Oil
+    amount:
+      quantity: 100
+      unit: ml
+  - name: Maggi cubes
+    amount:
+      quantity: 2
+  - name: Thyme leaves
+    amount:
+      quantity: 1
+      unit: tsp.
+  - name: Garlic
+    amount:
+      quantity: 1
+      unit: clove
+  - name: Ginger
+    amount:
+      quantity: 1
+      unit: g
+  - name: Curry powder
+  - name: Salt
+  - name: Pepper
+directions:
+  - step: Blend tomatoes, scotch bonnet and red bell pepper together
+  - step: Chop the onions and keep them aside
+  - step: Put the rice into a bowl and soak with hot water
+  - step: Allow the rice to soak for 10-15 minutes
+    timer: 15
+  - step: Wash the rice with warm water and keep aside, or parboil your rice and wash
+  - step: Put the oil in a pot and allow it to heat up
+  - step: Add the chopped onions and allow to fry, but be sure not to burn them
+  - step: Add the blended ingredients and tomato purée and allow to fry, just until you get rid of the sour taste, about 10-15 minutes
+    timer: 15
+  - step: Add the Maggi cube, garlic, ginger, curry, thyme and salt and mix together
+  - step: Add stock or water, and mix too. Taste to adjust to any seasoning
+  - step: Pour the rice into the pot and mix together, making sure it is covered in the sauce
+  - step: Cook on a low to medium fire until soft
+  - step: When rice is soft, lower the heat and allow to simmer so the water will get completely dry
