@@ -19,11 +19,12 @@
     "url": "git+https://github.com/madhead/recipes.git"
   },
   "scripts": {
-    "prevalidate": "rm -rf schema && mkdir schema && cd schema && curl --remote-name-all -L https://github.com/256-recipes/yuml/releases/download/latest/{amount,ingredient,language,link,quantity,recipe,step,unit}.json",
+    "prevalidate": "bash -c 'rm -rf schema && mkdir schema && cd schema && curl --remote-name-all -L https://github.com/256-recipes/yuml/releases/download/latest/{amount,ingredient,language,link,quantity,recipe,step,unit}.json'",
     "validate": "ajv validate -s schema/recipe.json -r 'schema/!(recipe).json' -c ajv-formats -d 'recipes/*'"
   },
   "devDependencies": {
     "ajv-cli": "^4.0.1",
     "ajv-formats": "^1.5.1"
-  }
+  },
+  "packageManager": "yarn@3.1.1"
 }

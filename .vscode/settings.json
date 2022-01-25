@@ -1,7 +1,7 @@
 {
 	"yaml.schemas": {
 		"https://github.com/256-recipes/yuml/releases/download/latest/recipe.json": [
-			"recipes/*.yml"
+			"/recipes/*.yml"
 		]
 	}
 }
