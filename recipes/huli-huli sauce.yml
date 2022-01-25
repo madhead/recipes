@@ -1,0 +1,68 @@
+name: Huli-huli sauce
+language: en
+links:
+  - https://t.me/foodandscience/726
+preparationTime: 20
+ingredients:
+  - name: Pineapple juice
+    amount:
+      quantity: 200
+      unit: ml
+  - name: Chicken broth
+    amount:
+      quantity: 200
+      unit: ml
+  - name: Soy sauce
+    amount:
+      quantity: 50
+      unit: ml
+  - name: Ketchup
+    amount:
+      quantity: 50
+      unit: ml
+  - name: Rice vinegar
+    amount:
+      quantity: 50
+      unit: ml
+    alternatives:
+      - name: Lemon juice
+        amount:
+          quantity: 50
+          unit: ml
+  - name: Brown sugar
+    amount:
+      quantity: 50
+      unit: g
+  - name: Sriracha
+    amount:
+      quantity: 2
+      unit: tbsp.
+  - name: Sriracha sauce
+    amount:
+      quantity: 2
+      unit: tbsp.
+  - name: Worcestershire sauce
+    amount:
+      quantity: 2
+      unit: tbsp.
+  - name: Sesame oil
+    amount:
+      quantity: 1
+      unit: tsp.
+  - name: Garlic
+    amount:
+      quantity: 4
+      unit: clove
+directions:
+  - step: Mix pineapple juice and chicken broth
+  - step: Add soy sauce
+  - step: Add ketchup
+  - step: Add rice vinegar
+  - step: Add brown sugar
+  - step: Add brown sugar
+  - step: Add sriracha sauce
+  - step: Add worcestershire sauce
+  - step: Add sesame oil
+  - step: Mince the garlic and add it to the mix
+  - step: Simmer on a small fire for 10 minutes
+    timer: 10
