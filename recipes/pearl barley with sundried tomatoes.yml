@@ -1,0 +1,60 @@
+name: Pearl barley with sundried tomatoes
+language: en
+links:
+  - https://realfood.tesco.com/recipes/pearl-barley-and-tomato-risotto.html
+tags:
+  - italian cuisine
+preparationTime: 50
+ingredients:
+  - name: Pearl barley
+    amount:
+      quantity: 350
+      unit: g
+  - name: Tin chopped tomatoes
+    amount:
+      quantity: 400
+      unit: g
+  - name: Sundried tomatoes
+    amount:
+      quantity: 100
+      unit: g
+  - name: Sundried tomatoes oil
+    amount:
+      quantity: 1
+      unit: tbsp.
+  - name: Onions
+    amount:
+      quantity: 1
+  - name: Vegetable stock
+    amount:
+      quantity: 600
+      unit: ml
+  - name: Greek-style salad cheese
+    amount:
+      quantity: 100
+      unit: g
+  - name: Garlic
+    amount:
+      quantity: 3
+      unit: clove
+  - name: Fresh parsley
+    amount:
+      quantity: 15
+      unit: g
+  - name: Pepper
+directions:
+  - step: Finely chop the sundried tomatoes.
+  - step: Finely chop the onion.
+  - step: Crush the garlic cloves.
+  - step: Chop the parsley.
+  - step: Crumble the cheese.
+  - step: Heat the oil from the tomato jar in a large, lidded saucepan over a medium-low heat.
+  - step: Add the onion, garlic and parsley stems and cook, stirring occasionally, until soft and translucent.
+    timer: 5
+  - step: Stir in the pearl barley, sundried tomatoes, chopped tomatoes and stock.
+  - step: Bring to the boil, then cover and reduce the heat to low.
+  - step: Simmer, stirring occasionally, until the barley is just cooked and all the liquid has been absorbed.
+    timer: 35
+  - step: Give the barley a good stir until it’s released its starch and the risotto is creamy.
+  - step: Season with pepper.
+  - step: Stir in the cheese and parsley leaves to serve.
