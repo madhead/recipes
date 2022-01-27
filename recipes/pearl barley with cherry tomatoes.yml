@@ -1,0 +1,58 @@
+name: Pearl barley with cherry tomatoes
+language: en
+links:
+  - https://www.sainsburysmagazine.co.uk/recipes/mains/tomato-and-pearl-barley-risotto-with-feta
+tags:
+  - italian cuisine
+  - main course
+  - vegeterian
+preparationTime: 50
+ingredients:
+  - name: Pearl barley
+    amount:
+      quantity: 300
+      unit: g
+  - name: Cherry tomatoes
+    amount:
+      quantity: 800
+      unit: g
+  - name: Feta cheese
+    amount:
+      quantity: 200
+      unit: g
+  - name: Onions
+    amount:
+      quantity: 1
+  - name: Garlic
+    amount:
+      quantity: 4
+      unit: clove
+  - name: Tomato purée
+    amount:
+      quantity: 2
+      unit: tbsp.
+  - name: Sugar
+    amount:
+      quantity: 1
+      unit: tsp.
+  - name: Basil leaves
+    amount:
+      quantity: 60
+      unit: g
+  - name: Rocket leaves
+  - name: Olive oil
+directions:
+  - step: Rinse and drain the pearl barley.
+  - step: Finely chop the onion.
+  - step: Finely chop the garlic.
+  - step: Chop the basil, but leave a few leaves reserved for garnish.
+  - step: Crumble the feta cheese.
+  - step: Heat the oil in a large saucepan
+  - step: Add the onion and garlic and cook for 5 minutes.
+    timer: 5
+  - step: Add the pearl barley, tinned cherry tomatoes, tomato purée, sugar and chopped basil.
+  - step: Fill an empty tomato tin with water and add it to the mix. Repeat, adding totally about 800ml of water.
+  - step: Stir well, cover and bring to the boil, then reduce the heat and simmer, stirring from time to time, until the pearl barley is tender.
+    timer: 35
+  - step: Add the feta cheese into the risotto and season to taste.
+  - step: Serve in bowls, topped with some rocket and basil leaves.
