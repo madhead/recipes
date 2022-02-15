@@ -1,0 +1,35 @@
+name: Cabbage baked with halva and coconut milk
+language: en
+links:
+  - https://www.gastronom.ru/recipe/43322/zapechennaya-kapusta-s-kokosom-i-halvoj
+preparationTime: 50
+ingredients:
+  - name: Cabbage
+    amount:
+      quantity: 200
+      unit: g
+  - name: Coconut milk
+    amount:
+      quantity: 100
+      unit: ml
+  - name: Sunflower halva
+    amount:
+      quantity: 50
+      unit: g
+  - name: Raw cane sugar
+    amount:
+      quantity: 10
+      unit: g
+  - name: Microgreen
+    amount:
+      quantity: 4
+      unit: g
+  - name: Salt
+  - name: Pepper
+directions:
+  - step: Preheat the oven to 180 °C.
+  - step: Separate cabbage leaves. Wash them and dry.
+  - step: Toss cabbage leaves with raw cane sugar and bake them in the oven for 40 minutes at 180 °C.
+    timer: 40
+  - step: Quickly fry the leaves on a pan. Stir the cocunut milk. Add salt and pepper.
+  - step: Serve tossed with halva crumbs and microgreen.
