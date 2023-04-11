@@ -35,7 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["ajv-cli", "npm:4.0.1"],
+            ["ajv-cli", "virtual:20d523d18643c5ab528d8b8f2a29f4b139c5ce010e3186f6017be390a2870854cfb36e713f8d92cdfa23ddcd14bda8dfa7bc41e0d3f0d2f8fc8dfeb289e16d0d#npm:5.0.0"],
             ["ajv-formats", "npm:1.5.1"]
           ],
           "linkType": "SOFT",
@@ -52,20 +52,44 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["uri-js", "npm:4.4.0"]
           ],
           "linkType": "HARD",
+        }],
+        ["npm:8.12.0", {
+          "packageLocation": "./.yarn/cache/ajv-npm-8.12.0-3bf6e30741-4dc13714e3.zip/node_modules/ajv/",
+          "packageDependencies": [
+            ["ajv", "npm:8.12.0"],
+            ["fast-deep-equal", "npm:3.1.3"],
+            ["json-schema-traverse", "npm:1.0.0"],
+            ["require-from-string", "npm:2.0.2"],
+            ["uri-js", "npm:4.4.0"]
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["ajv-cli", [
-        ["npm:4.0.1", {
-          "packageLocation": "./.yarn/cache/ajv-cli-npm-4.0.1-cbfd4866c7-0babeccc1a.zip/node_modules/ajv-cli/",
+        ["npm:5.0.0", {
+          "packageLocation": "./.yarn/cache/ajv-cli-npm-5.0.0-e12d6f3c52-e8ba29f618.zip/node_modules/ajv-cli/",
           "packageDependencies": [
-            ["ajv-cli", "npm:4.0.1"],
-            ["ajv", "npm:7.0.3"],
+            ["ajv-cli", "npm:5.0.0"]
+          ],
+          "linkType": "SOFT",
+        }],
+        ["virtual:20d523d18643c5ab528d8b8f2a29f4b139c5ce010e3186f6017be390a2870854cfb36e713f8d92cdfa23ddcd14bda8dfa7bc41e0d3f0d2f8fc8dfeb289e16d0d#npm:5.0.0", {
+          "packageLocation": "./.yarn/__virtual__/ajv-cli-virtual-6582b69951/0/cache/ajv-cli-npm-5.0.0-e12d6f3c52-e8ba29f618.zip/node_modules/ajv-cli/",
+          "packageDependencies": [
+            ["ajv-cli", "virtual:20d523d18643c5ab528d8b8f2a29f4b139c5ce010e3186f6017be390a2870854cfb36e713f8d92cdfa23ddcd14bda8dfa7bc41e0d3f0d2f8fc8dfeb289e16d0d#npm:5.0.0"],
+            ["@types/ts-node", null],
+            ["ajv", "npm:8.12.0"],
             ["fast-json-patch", "npm:2.2.1"],
             ["glob", "npm:7.1.6"],
             ["js-yaml", "npm:3.14.1"],
-            ["json-schema-migrate", "npm:1.0.0"],
+            ["json-schema-migrate", "npm:2.0.0"],
             ["json5", "npm:2.1.3"],
-            ["minimist", "npm:1.2.5"]
+            ["minimist", "npm:1.2.5"],
+            ["ts-node", null]
+          ],
+          "packagePeers": [
+            "@types/ts-node",
+            "ts-node"
           ],
           "linkType": "HARD",
         }]
@@ -210,11 +234,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["json-schema-migrate", [
-        ["npm:1.0.0", {
-          "packageLocation": "./.yarn/cache/json-schema-migrate-npm-1.0.0-46afaff42d-4346c8c408.zip/node_modules/json-schema-migrate/",
+        ["npm:2.0.0", {
+          "packageLocation": "./.yarn/cache/json-schema-migrate-npm-2.0.0-87745c8332-21537305f3.zip/node_modules/json-schema-migrate/",
           "packageDependencies": [
-            ["json-schema-migrate", "npm:1.0.0"],
-            ["ajv", "npm:7.0.3"]
+            ["json-schema-migrate", "npm:2.0.0"],
+            ["ajv", "npm:8.12.0"]
           ],
           "linkType": "HARD",
         }]
@@ -290,7 +314,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["recipes", "workspace:."],
-            ["ajv-cli", "npm:4.0.1"],
+            ["ajv-cli", "virtual:20d523d18643c5ab528d8b8f2a29f4b139c5ce010e3186f6017be390a2870854cfb36e713f8d92cdfa23ddcd14bda8dfa7bc41e0d3f0d2f8fc8dfeb289e16d0d#npm:5.0.0"],
             ["ajv-formats", "npm:1.5.1"]
           ],
           "linkType": "SOFT",

@@ -5,20 +5,25 @@ __metadata:
   version: 5
   cacheKey: 8
 
-"ajv-cli@npm:^4.0.1":
-  version: 4.0.1
-  resolution: "ajv-cli@npm:4.0.1"
+"ajv-cli@npm:^5.0.0":
+  version: 5.0.0
+  resolution: "ajv-cli@npm:5.0.0"
   dependencies:
-    ajv: ^7.0.0
+    ajv: ^8.0.0
     fast-json-patch: ^2.0.0
     glob: ^7.1.0
     js-yaml: ^3.14.0
-    json-schema-migrate: ^1.0.0
+    json-schema-migrate: ^2.0.0
     json5: ^2.1.3
     minimist: ^1.2.0
+  peerDependencies:
+    ts-node: ">=9.0.0"
+  peerDependenciesMeta:
+    ts-node:
+      optional: true
   bin:
     ajv: dist/index.js
-  checksum: 0babeccc1af9e4ed5bbc696c2e9e6fb147ed340601dfafa3cc06c251a7af7e13920e0d87cbbef449381a0a21e27a1a6626c7f433f087f601c846e67092fa9fba
+  checksum: e8ba29f618c653abba3a08d8784f8c882b5ac560dab587540af4d53d8230acb93af07c37165a0461294adb4015ba8ceb09916017a66754c782f950f9679ae94a
   languageName: node
   linkType: hard
 
@@ -31,7 +36,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ajv@npm:^7.0.0, ajv@npm:^7.0.0-beta.9":
+"ajv@npm:^7.0.0":
   version: 7.0.3
   resolution: "ajv@npm:7.0.3"
   dependencies:
@@ -40,6 +45,18 @@ __metadata:
     require-from-string: ^2.0.2
     uri-js: ^4.2.2
   checksum: ed481c275cea8648ca527526cd26a6546462a1cc3a466ec105de1d4a8c51d9b1108a0e0b26a8fbd8e83afce6a842a043da693c4b749668724eb5f9fd7586f2d6
+  languageName: node
+  linkType: hard
+
+"ajv@npm:^8.0.0":
+  version: 8.12.0
+  resolution: "ajv@npm:8.12.0"
+  dependencies:
+    fast-deep-equal: ^3.1.1
+    json-schema-traverse: ^1.0.0
+    require-from-string: ^2.0.2
+    uri-js: ^4.2.2
+  checksum: 4dc13714e316e67537c8b31bc063f99a1d9d9a497eb4bbd55191ac0dcd5e4985bbb71570352ad6f1e76684fb6d790928f96ba3b2d4fd6e10024be9612fe3f001
   languageName: node
   linkType: hard
 
@@ -159,12 +176,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"json-schema-migrate@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "json-schema-migrate@npm:1.0.0"
+"json-schema-migrate@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "json-schema-migrate@npm:2.0.0"
   dependencies:
-    ajv: ^7.0.0-beta.9
-  checksum: 4346c8c408352f967b5f4d44dcd683096f6406dd7e947b5e0fbcc1508961423cc779583ee67d0de814ef58a29302c88472180643ba6627c317fd17f4e5dfc0b0
+    ajv: ^8.0.0
+  checksum: 21537305f3a5102695cfeeab997d565516297b240ee560bf7fe5c01ea4d56b65e0fbc4e9a4f9a32819e2cb1874daf43b06eb580e623d0aade0cf50d03ae40418
   languageName: node
   linkType: hard
 
@@ -229,7 +246,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "recipes@workspace:."
   dependencies:
-    ajv-cli: ^4.0.1
+    ajv-cli: ^5.0.0
     ajv-formats: ^1.5.1
   languageName: unknown
   linkType: soft
