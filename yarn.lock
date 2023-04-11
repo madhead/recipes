@@ -27,24 +27,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ajv-formats@npm:^1.5.1":
-  version: 1.5.1
-  resolution: "ajv-formats@npm:1.5.1"
+"ajv-formats@npm:^2.1.1":
+  version: 2.1.1
+  resolution: "ajv-formats@npm:2.1.1"
   dependencies:
-    ajv: ^7.0.0
-  checksum: 4781c82b17d0383b2fbdc969fc1805c7b4fb7dcbe10b7bf5e27380e204950b7cc6b4f0f023e72eab2d6e9dfe82c120823b29bfcaeb14f6772a93ee3c4095d20d
-  languageName: node
-  linkType: hard
-
-"ajv@npm:^7.0.0":
-  version: 7.0.3
-  resolution: "ajv@npm:7.0.3"
-  dependencies:
-    fast-deep-equal: ^3.1.1
-    json-schema-traverse: ^1.0.0
-    require-from-string: ^2.0.2
-    uri-js: ^4.2.2
-  checksum: ed481c275cea8648ca527526cd26a6546462a1cc3a466ec105de1d4a8c51d9b1108a0e0b26a8fbd8e83afce6a842a043da693c4b749668724eb5f9fd7586f2d6
+    ajv: ^8.0.0
+  peerDependencies:
+    ajv: ^8.0.0
+  peerDependenciesMeta:
+    ajv:
+      optional: true
+  checksum: 4a287d937f1ebaad4683249a4c40c0fa3beed30d9ddc0adba04859026a622da0d317851316ea64b3680dc60f5c3c708105ddd5d5db8fe595d9d0207fd19f90b7
   languageName: node
   linkType: hard
 
@@ -247,7 +240,7 @@ __metadata:
   resolution: "recipes@workspace:."
   dependencies:
     ajv-cli: ^5.0.0
-    ajv-formats: ^1.5.1
+    ajv-formats: ^2.1.1
   languageName: unknown
   linkType: soft
 
