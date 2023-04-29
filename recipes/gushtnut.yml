@@ -1,0 +1,51 @@
+name: Gushtnut
+language: en
+tags:
+  - main course
+  - uzbek cuisine
+ingredients:
+  - name: Chickpeas
+    amount:
+      quantity: 100
+      unit: g
+  - name: Beef
+    amount:
+      quantity: 250
+      unit: g
+  - name: Mid-sized tomatoes
+    amount:
+      quantity: 5
+  - name: Onions
+    amount:
+      quantity: 1
+  - name: Garlic
+    amount:
+      quantity: 3
+      unit: clove
+  - name: Beef broth
+    amount:
+      quantity: 500
+      unit: ml
+  - name: Butter
+  - name: Oil
+  - name: Salt
+  - name: Pepper
+  - name: Smoked paprika
+  - name: Сoriander seeds
+  - name: Caraway seeds
+  - name: Curry
+  - name: Parsley
+  - name: Nutmeg
+directions:
+  - step: Cover the chickpeas with cold water and soak overnight.
+  - step: Cut the meat into 1" pieces.
+  - step: Stir the meat with the spices of your choise — coriander and caraway seeds, smoked paprika, curry
+  - step: Add a little bit of oil, salt and pepper to the meat. Stir. Leave to season overnight.
+  - step: Fry the meat in a stewpan on melted butter with some oil until golden-brown.
+  - step: Drain the chickpeas and rinse well. Add the chickpeas to the meat.
+  - step: Add chopped garlic and a pinch of nutmeg.
+  - step: Stir. Cover with broth and bring to the boil.
+  - step: 'Simmer for 1 – 1.5 hours, depending on the meat and chickpeas: they should get soft.'
+  - step: Cut the tomatoes into small cubes.
+  - step: Stir the tomatoes to the meat and chickpeas, stew for additional 10 – 15 mins.
+  - step: Serve with a sliced raw onlion.

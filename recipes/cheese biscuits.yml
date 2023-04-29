@@ -1,0 +1,27 @@
+name: Cheese biscuits
+language: en
+links:
+  - https://www.delish.com/uk/cooking/recipes/a33533592/cheese-biscuits
+tags:
+  - snack
+preparationTime: 30
+ingredients:
+  - name: Cheddar cheese
+    amount:
+      quantity: 100
+      unit: g
+  - name: Salted butter
+    amount:
+      quantity: 50
+      unit: g
+  - name: Self-raising flour
+    amount:
+      quantity: 100
+      unit: g
+directions:
+  - step: Preheat the oven to 220 °C. Line baking tray with parchment.
+  - step: Grate the cheese.
+  - step: Remove some cheese and set aside.
+  - step: Add flour, followed by butter into the remaining cheese, then bring it together with your fingers and form a dough.
+  - step: Tip dough out onto a lightly floured surface and roll it out to a thickness of about 5 mm, then cut out rounds.
+  - step: Place onto the baking tray, sprinkle each biscuit using the remaining crumbled cheese. Bake for 10-12 minutes until golden.

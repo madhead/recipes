@@ -1,0 +1,58 @@
+name: Blini
+language: en
+tags:
+  - russian cuisine
+preparationTime: 50
+ingredients:
+  - name: Milk
+    amount:
+      quantity: 500
+      unit: ml
+  - name: Eggs
+    amount:
+      quantity: 2
+  - name: Salt
+    amount:
+      quantity: 1
+      unit: pinch
+  - name: Sugar
+    amount:
+      quantity: 1
+      unit: tbsp.
+  - name: Baking soda
+    amount:
+      quantity: ½
+      unit: tsp.
+  - name: Citric acid
+    amount:
+      quantity: ⅛
+      unit: tsp.
+  - name: White floud
+    amount:
+      quantity: 240
+      unit: g
+  - name: Vegetable oil
+    amount:
+      quantity: 1
+      unit: tbsp.
+  - name: Water
+    amount:
+      quantity: 115
+      unit: g
+  - name: Butter
+    alternatives:
+      - name: Vegetable oil
+directions:
+  - step: Beat the milk and eggs together in a bowl.
+  - step: Stir in the salt and the sugar and mix well.
+  - step: Add the baking soda and citric acid to the batter.
+  - step: Sift the flour in and then add the vegetable oil.
+  - step: Pour in the boiling water, stirring constantly. The batter should be very thin, almost watery.
+  - step: Set the bowl aside and let it rest for 20 minutes.
+  - step: Melt a tablespoon of butter in a small frying pan over medium-high heat.
+  - step: Once the butter has melted, lift the pan off over the heat. Pour in a ladleful of batter while you rotate your wrist, tilting the pan so the batter coats the bottom and makes a thin layer. The pancake should be really thin.
+  - step: Return the pan to the heat and cook the pancake for just over a minute.
+  - step: Carefully lift up an edge of the blini to see if it's fully cooked. You're looking to see if the edges are golden. At this point it should have brown spots on the surface.
+  - step: Flip the pancake over and cook the other side for another minute.
+  - step: Repeat the steps to make more pancakes. Don't forget to add butter regularly.
+  - step: Stack the pancakes on top of each other and cover with the kitchen towel to keep warm.
